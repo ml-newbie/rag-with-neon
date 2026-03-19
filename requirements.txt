@@ -1,9 +1,9 @@
 streamlit
 agno
-psycopg[binary]
 pgvector
 python-dotenv
 openai
 duckduckgo-search
-sqlalchemy
 ddgs
+sqlalchemy>=2.0
+psycopg[binary]>=3.1
