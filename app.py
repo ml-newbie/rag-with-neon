@@ -116,11 +116,11 @@ research_team = build_team()
 # -----------------------
 # UI
 # -----------------------
-st.title("📚 ML Research Team")
+st.title("📚 UnderstandMachine Learning Fundamentals")
 st.markdown(
     '<p style="font-size:10px; color:gray; text-align:center;">© 2026 Developed by John M. using Agno AI and Neon</p>',
     unsafe_allow_html=True,
-)
+) 
 st.write("Ask ML questions with grounded textbook answers.")
 
 if "session_id" not in st.session_state:
