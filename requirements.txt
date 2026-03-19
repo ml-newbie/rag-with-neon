@@ -1,0 +1,7 @@
+streamlit
+agno
+psycopg[binary]
+pgvector
+python-dotenv
+openai
+duckduckgo-search
