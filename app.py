@@ -4,7 +4,7 @@ from auth import check_password
 # -----------------------
 # Password protection
 # -----------------------
-if not check_password("ML Research Team"):
+if not check_password("ML Concepts Instructor"):
     st.stop()
 
 # -----------------------
