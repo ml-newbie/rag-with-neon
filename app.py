@@ -118,7 +118,7 @@ research_team = build_team()
 # -----------------------
 st.title("📚 Understand ML Fundamentals")
 st.markdown(
-    '<p style="font-size:10px; color:gray; text-align:left;">© 2026 Developed by John M. using Agno AI and Neon</p>',
+    '<p style="font-size:10px; color:gray; text-align:left;">© 2026 Developed by John M. using Agno AI and Neon (RAG)</p>',
     unsafe_allow_html=True,
 ) 
 st.write("Ask ML questions with grounded textbook answers.")
