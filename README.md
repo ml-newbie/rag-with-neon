@@ -1,6 +1,7 @@
+
 ---
 
-```markdown
+
 # 📚 ML Research Team (RAG with Neon + Streamlit)
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
@@ -267,4 +268,5 @@ Built with Agno AI + Neon (RAG architecture)
 
 MIT License
 
+```
 
